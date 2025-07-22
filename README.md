@@ -7,7 +7,10 @@ The main goal is designing a traffic rule violation detection system which detec
  3. Design of Over Speed Violation Detection (OSVD) algorithm
  4. Wrong- way Traffic Violation Detection (WTVD) algorithm
  5. Comparing the results of proposed models with already existing models, to showcase the better performance of proposed algorithms.
-
+### Flowchart
+![](/)
+### Results
+![](/)
 ## Springer paper publishing
 Presented and published my Research Paper at 4th International Conference on Image Processing and Capsule Networks. ICIPCN 2023, Lecture Notes in Networks and Systems, vol 798. Springer, Singapore.
 https://doi.org/10.1007/978-981-99-7093-3_21
