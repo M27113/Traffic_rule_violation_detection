@@ -15,8 +15,8 @@ The python software with Tensorflow and OpenCV libraries are used to implement t
 ![DeepSORT](/blockdiag.png)
 
 ### Results
-![speeding](/overspeed.png)
 ![wrongway](/wrongway.png)
+![speeding](/overspeed.png)
 
 ### Conclusion
 The proposed system detects and tracks vehicles successfully using YOLOv3 and DeepSORT. The designed algorithm, detects traffic rule violations like overspeeding and wrong way traffic violation successfully.
