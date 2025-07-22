@@ -1,5 +1,0 @@
-conda activate car
-
-cd C:\Users\Balanagaiah\Desktop\python\New folder\Wrong-direction-drivers-detection-master\Wrong-direction-drivers-detection-master
-
-python object_tracking.py --input "C:\Users\Balanagaiah\Desktop\python\New folder\test_videos-20230313T202337Z-001\test_videos\carr.mp4"
